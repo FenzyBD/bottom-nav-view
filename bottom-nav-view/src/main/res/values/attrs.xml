@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="KBottomNavView">
+        <attr name="menu" format="reference" />
+        <attr name="selected" format="integer" />
+        <attr name="iconSize" format="dimension" />
+        <attr name="circleSize" format="dimension" />
+        <attr name="cradleOffset" format="dimension"/>
+        <attr name="shadowColor" format="color"/>
+        <attr name="shadowRadius" format="dimension"/>
+        <!-- selected menu icon & text color-->
+        <attr name="activeColor" format="color"/>
+        <!-- icon and text color-->
+        <attr name="android:fontFamily" format="reference"/>
+        <attr name="android:textColor" format="color" />
+        <attr name="android:textSize" format="dimension" />
+        <attr name="android:background" format="color" />
+
+    </declare-styleable>
+</resources>

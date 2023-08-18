@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/baseline_notifications_none_24"
+        android:title="Notification" />
+    <item
+        android:id="@+id/music"
+        android:icon="@drawable/baseline_headphones_24"
+        android:title="Music" />
+    <item
+        android:id="@+id/statistics"
+        android:icon="@drawable/baseline_pie_chart_24"
+        android:title="Statistics" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="Settings" />
+</menu>
